@@ -9,7 +9,7 @@ The following diagram is a nutshell of our evaluation procedure. Corresponding d
 
 ## Data Collection
 
-We collected data over several days using [a TikTok website scraper from this repository](https://github.com/drawrowfly/tiktok-scraper). In order to replicate this project, you will need access to the project data archive. The data is stored in a single screenshots folder with all images named by TikTok ID. The folder name: “Image Clustering/Screenshots”.
+We collected data over several days using [a TikTok website scraper from this repository](https://github.com/drawrowfly/tiktok-scraper). In order to replicate this project, you will need access to the project data archive. The data is stored in this archive in a single screenshots folder with all images named by TikTok ID. The folder name: “Image Clustering/Screenshots”.
 
 
 ## Data Preparation
