@@ -9,7 +9,9 @@ The following diagram is a nutshell of our evaluation procedure. Corresponding d
 
 ## Data Collection
 
-We collected data over several days using [this repository.](https://github.com/drawrowfly/tiktok-scraper) 
+We collected data over several days using [this repository.](https://github.com/drawrowfly/tiktok-scraper). This is stored in a single screenshots folder with all images named by TikTok ID. 
+Folder name: “Image Clustering/Screenshots”
+
 
 ## Data Preparation
 
